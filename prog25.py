@@ -30,3 +30,4 @@ match o:
     print("Operaçao invalida!")
 print(f"O Resultado da sua operaçao e de: {r}")
 print("commit test")
+print("six seven")
