@@ -26,4 +26,3 @@ while pd != 0:
     else:
         print("Produto nao encontrado")
         print ("-" * 200)
-    
