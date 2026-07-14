@@ -20,9 +20,9 @@ while pd != 0:
         print("Macarrao adicionado. [5.00]")
         print ("-" * 200)
         p = p + 5
-    elif pd ==0:
+    elif pd == 0:
         print(f"{p}")
         break
-    else:
-        print("Produto nao encontrado")
+else:
+        print(f"produto nao encontrado")
         print ("-" * 200)
